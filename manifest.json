@@ -1,6 +1,6 @@
 {
-    "name": "math_game",
-    "short_name": "math_game",
+    "name": "sfaclog",
+    "short_name": "sfaclog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
